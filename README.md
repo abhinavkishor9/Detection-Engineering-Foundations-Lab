@@ -85,25 +85,6 @@ Each investigation included:
 
 ---
 
-# Repository Structure
-
-```
-Detection-Engineering-Foundations-Lab
-│
-├── README.md
-├── notes
-│   ├── investigation-notes.md
-│   └── troubleshooting-notes.md
-│
-├── Day15-Detection-Basics.pdf
-├── Day16-Certutil-Rule.pdf
-├── Day17-RDP-Rule.pdf
-├── Day18-PowerShell-Rule.pdf
-├── Day19-False-Positives.pdf
-└── Day20-MITRE-ATTACK-Navigator.pdf
-```
-
----
 
 # Learning Outcomes
 
