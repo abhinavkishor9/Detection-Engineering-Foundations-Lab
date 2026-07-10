@@ -100,10 +100,3 @@ By completing this project, I gained practical experience in:
 
 ---
 
-# References
-
-- MITRE ATT&CK Enterprise Matrix
-- MITRE ATT&CK Navigator
-- Sigma Rule Specification
-- Microsoft Windows Security Auditing Documentation
-- Sysmon Documentation
